@@ -1,5 +1,12 @@
 # MyAuthentication (React Native)
 
+
+
+https://github.com/user-attachments/assets/8614e7b8-dfc2-4249-86ff-fc1daaf2168b
+
+https://github.com/user-attachments/assets/d2aac602-1346-4981-90a0-07bc2997de0b
+
+
 Lightweight React Native authentication demo using React Navigation, React Native Paper and a local mock user store.
 
 Features
